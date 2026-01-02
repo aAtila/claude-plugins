@@ -19,13 +19,14 @@ Restart Claude Code after installing.
 
 ## Available Plugins
 
-### seo (v0.2.0)
+### seo (v0.3.0)
 
 SEO best practices for web development.
 
 **Skills:**
 - `semantic-html` - Catches semantic HTML issues during development
 - `semantic-review` - Comprehensive semantic audit for completed pages
+- `content-triples-audit` - Analyzes content for SPO triple quality
 
 ### webdev (v0.1.0)
 
