@@ -1,0 +1,26 @@
+{
+  "name": "aAtila",
+  "owner": {
+    "name": "Atila Alacan"
+  },
+  "plugins": [
+    {
+      "name": "seo",
+      "version": "0.2.0",
+      "description": "SEO best practices - semantic HTML, meta tags, structured data",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/aAtila/seo-plugin.git"
+      }
+    },
+    {
+      "name": "webdev",
+      "version": "0.1.0",
+      "description": "Web dev workflows - commits, code review, debugging",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/aAtila/webdev-plugin.git"
+      }
+    }
+  ]
+}
